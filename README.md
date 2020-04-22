@@ -1,2 +1,2 @@
 # rat.in.maze.cpp
-Rat in a Maze
+A rate maze game using back tracking algorithm
